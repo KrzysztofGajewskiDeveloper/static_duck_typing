@@ -1,0 +1,1 @@
+# static_duck_typing
